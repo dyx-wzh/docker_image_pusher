@@ -1,2 +1,2 @@
-alertmanager:v0.27.0
-grafana/grafana：10.0.9
+registry.k8s.io/ingress-nginx/alertmanager:v0.27.0
+registry.k8s.io/ingress-nginx/grafana：10.0.9
