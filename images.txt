@@ -1,2 +1,1 @@
-grafana/grafana:10.0.9
-prom/alermanager:0.27.0
+alermanager:v0.27.0
